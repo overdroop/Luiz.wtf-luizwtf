@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center"
 
-<img src="https://img.shields.io/badge/-estudante%20cansado-000000?style=for-the-badge&logoColor=00ff41&labelColor=000000&color=00ff41" />
+<img src="https://img.shields.io/badge/bem%20vindo-000000?style=for-the-badge" />
 
 </div>
 
