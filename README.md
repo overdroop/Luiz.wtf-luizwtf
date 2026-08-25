@@ -29,6 +29,6 @@ Se quiser me ajudar nos projetos, entre em contato ou faça um Pix, qualquer val
 
 <div align="center">
 
-by luiz.wtf
+_
 
 </div>
