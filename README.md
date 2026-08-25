@@ -1,14 +1,6 @@
 <div align="center">
 
-```
-#      #   #  #####  #####         #   #  #####  #####  
-#      #   #    #        #         #   #    #    #      
-#      #   #    #       #          #   #    #    #      
-#      #   #    #      #           # # #    #    ####   
-#      #   #    #     #            # # #    #    #      
-#      #   #    #    #             ## ##    #    #      
-#####   ###   #####  #####    ##   #   #    #    #      
-```
+<img src="./assets/marquee.svg" width="100%" /> luiz.wtf
 
 `mobile-only build — nenhuma linha escrita fora do Termux`
 
