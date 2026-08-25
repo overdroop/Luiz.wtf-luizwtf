@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/marquee.svg" width="100%" />
-
-`mobile-only build — nenhuma linha escrita fora do Termux`
+``estudante cansado`
 
 </div>
 
